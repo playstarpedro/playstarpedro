@@ -1,6 +1,6 @@
 ## Olá! Sou o Pedro 👋
 
-- 🌱 Atualmente estudando Java
+- 🌱 Atualmente trabalhando na @TradeToWorld
 - 📫 Contate-me no email: pedrosouza0079@gmail.com 
 - 😄 Pronomes: ele/dele
 
