@@ -1,8 +1,8 @@
-## Olá! Sou o Pedro 👋
+## HI! I'm Pedro 👋
 
-- 🌱 Atualmente estudando Java
-- 📫 Contate-me no email: pedrosouza0079@gmail.com 
-- 😄 Pronomes: ele/dele
+- 🌱 Currently studying Java
+- 📫 Contact me at: pedrosouza0079@gmail.com
+- 😄 Pronouns: he/him
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=playstarpedro&theme=dark" />
