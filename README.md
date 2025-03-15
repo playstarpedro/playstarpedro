@@ -1,6 +1,6 @@
 ## HI! I'm Pedro 👋
 
-- 🌱 Currently studying Java
+- 🌱 Currently: searching for a new job
 - 📫 Contact me at: pedrosouza0079@gmail.com
 - 😄 Pronouns: he/him
 
@@ -10,6 +10,12 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=playstarpedro&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
+
+### Relevant Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=playstarpedro&repo=spring_microservices&theme=dark)](https://github.com/playstarpedro/spring_microservices)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=playstarpedro&repo=eplay&theme=dark)](https://github.com/playstarpedro/eplay)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
